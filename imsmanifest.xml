@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<manifest identifier="FZth1CtZT2ibNuLH9vSuhvFCiWskcg4N_qdB7mxm" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Ambientação Sistema FIEMG</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Ambientação Sistema FIEMG</title>
+        <adlcp:datafromlms>eyJjcHYiOiJfcWRCN214bSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/100da2c8.js" />
+<file href="scormcontent/lib/rise/2b0e445c.css" />
+<file href="scormcontent/lib/rise/1ad8d174.js" />
+<file href="scormcontent/lib/rise/6baa4ad5.css" />
+<file href="scormcontent/lib/rise/6989aec3.js" />
+<file href="scormcontent/lib/rise/e819553a.js" />
+<file href="scormcontent/lib/rise/99fbc683.js" />
+<file href="scormcontent/lib/rise/ccc70160.js" />
+<file href="scormcontent/lib/rise/c4a2acc6.js" />
+<file href="scormcontent/lib/rise/bb26270d.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/f29f3d92.js" />
+<file href="scormcontent/lib/mondrian/49f9c179.js" />
+<file href="scormcontent/lib/mondrian/215fe725.js" />
+<file href="scormcontent/lib/mondrian/c16e7dd3.js" />
+<file href="scormcontent/lib/mondrian/6eb617eb.js" />
+<file href="scormcontent/lib/mondrian/2bc5f663.js" />
+<file href="scormcontent/lib/mondrian/5ebb90af.js" />
+<file href="scormcontent/lib/mondrian/825dd797.js" />
+<file href="scormcontent/lib/mondrian/beccd965.js" />
+<file href="scormcontent/lib/mondrian/56ae9b9c.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Poppins-BoldItalic.woff" />
+<file href="scormcontent/lib/fonts/Poppins-Bold.woff" />
+<file href="scormcontent/lib/fonts/Poppins-SemiBoldItalic.woff" />
+<file href="scormcontent/lib/fonts/Poppins-SemiBold.woff" />
+<file href="scormcontent/lib/fonts/Poppins-Italic.woff" />
+<file href="scormcontent/lib/fonts/Poppins-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Black.woff" />
+<file href="scormcontent/assets/01TMHS2ppHUvhxeY-capa_NOPROCESS_.png" />
+<file href="scormcontent/assets/imagem_capa_boasvindas_2_NOPROCESS_.png" />
+<file href="scormcontent/assets/mDbU7G/divider_Prancheta%201.png" />
+<file href="scormcontent/assets/jyyXxF/divider-02.png" />
+<file href="scormcontent/assets/Screenshot_7.jpg" />
+<file href="scormcontent/assets/Screenshot_6.jpg" />
+<file href="scormcontent/assets/governanca.png" />
+<file href="scormcontent/assets/imagem%20info.jpg" />
+<file href="scormcontent/assets/colchetes_2_NOPROCESS_.png" />
+<file href="scormcontent/assets/imagem_capa_integridade_NOPROCESS_.png" />
+<file href="scormcontent/assets/Guia%20Voce%CC%82%20no%20Sistema%20Fiemg.pdf" />
+<file href="scormcontent/assets/profissional_protagonista_NOPROCESS_.png" />
+<file href="scormcontent/assets/info%20estrada%20fiemg.jpg" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
